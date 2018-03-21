@@ -1,0 +1,3 @@
+[submodule "Plugins/GenericGraph"]
+	path = Plugins/GenericGraph
+	url = https://github.com/jinyuliao/GenericGraph.git
